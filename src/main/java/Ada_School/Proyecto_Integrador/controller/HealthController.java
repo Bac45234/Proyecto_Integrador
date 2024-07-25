@@ -1,4 +1,4 @@
-package Ada_School.Proyecto_Integrador.controller.health;
+package Ada_School.Proyecto_Integrador.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
